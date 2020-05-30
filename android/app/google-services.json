@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45161562549",
+    "firebase_url": "https://testing-3fd59.firebaseio.com",
+    "project_id": "testing-3fd59",
+    "storage_bucket": "testing-3fd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45161562549:android:216b7cb2743304ac32d9fc",
+        "android_client_info": {
+          "package_name": "com.example.AlgoliaFirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45161562549-sdi1v1prncdsu1godbcbvrra0fk4i7cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.AlgoliaFirestore",
+            "certificate_hash": "cba54dd3efedec5f0574b8dd88917ad5b62ae6d8"
+          }
+        },
+        {
+          "client_id": "45161562549-3qi2ju118samjmj3t9ro3uma2cjhsdeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaNmuGPVC0MEhfTYQyVoGN4OOL6Llg1k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45161562549-3qi2ju118samjmj3t9ro3uma2cjhsdeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
